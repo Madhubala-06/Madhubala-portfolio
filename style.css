@@ -1,0 +1,43 @@
+
+body{
+    background-color: rgb(185, 185, 37);
+
+
+}
+
+.folio{
+text-align: center;
+color: rgb(108, 169, 70);
+background-color: rgb(49, 97, 199);
+padding: 50px;
+margin: 40px;
+
+
+}
+.start{
+    text-align: center;
+    color: rgb(46, 46, 221);
+    text-shadow: 40px;
+    font-family: cursive;
+    margin-left: 0px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-right: 20px;
+
+
+
+
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:400px;
+    height: 400px;
+    
+    border-radius: 50%;
+
+}
+
+
+
